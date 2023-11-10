@@ -1,0 +1,4 @@
+Anotações:
+1 - Foi utilizado Git Bash neste desafio
+2 - Link para comandos para Git:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
